@@ -17,7 +17,7 @@
   "dependencies": {
     "babel-polyfill": "^6.26.0",
     "bootstrap": "^3.3.7",
-    "lodash": "4.17.4",
+    "lodash": "4.17.13",
     "react": "^16.1.1",
     "react-dom": "^16.1.1",
     "react-hover-observer": "^2.0.1",
